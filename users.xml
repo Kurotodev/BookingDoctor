@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="22.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="org.example.user.User">
+    <void property="email">
+     <string>admin@example.com</string>
+    </void>
+    <void property="fullName">
+     <string>Administrador</string>
+    </void>
+    <void property="password">
+     <string>admin</string>
+    </void>
+    <void property="phone">
+     <string>123456789</string>
+    </void>
+    <void property="username">
+     <string>admin</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="org.example.user.User">
+    <void property="email">
+     <string>qweq</string>
+    </void>
+    <void property="fullName">
+     <string>qwe</string>
+    </void>
+    <void property="password">
+     <string>shiro</string>
+    </void>
+    <void property="phone">
+     <string>qwe</string>
+    </void>
+    <void property="username">
+     <string>kuroto</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
